@@ -24,7 +24,7 @@ SECRET_KEY = 'aq=qyh!#f2bpclh!y&j4@jrd4!if9arflu8o44bxdke*_l0xhx'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['aqueous-anchorage-72318.herokuapp.com/']
 
 # Application definition
 
